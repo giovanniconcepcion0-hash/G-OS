@@ -1,6 +1,6 @@
-# G-OS 🎮
+# G'OS 
 
-An innovative Operating System built with HTML, CSS, and JavaScript where you can play games and run applications directly in your browser.
+New way of OS's
 
 ## Features
 Has games in it 
